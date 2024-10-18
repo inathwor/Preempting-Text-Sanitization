@@ -1,4 +1,4 @@
-name: sagemaker
+name: dxprivacy
 channels:
   - pytorch
   - conda-forge

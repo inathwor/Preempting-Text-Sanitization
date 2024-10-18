@@ -1,3 +1,0 @@
-Put here
-- glove.6B.300d.pkl extracted from glove.6B.zip downloaded from https://nlp.stanford.edu/projects/glove/
-- wiki.en.vec from English: bin+text downloaded from https://fasttext.cc/docs/en/pretrained-vectors.html
